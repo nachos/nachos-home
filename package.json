@@ -1,0 +1,34 @@
+{
+  "name": "nachos-home",
+  "version": "1.0.0",
+  "description": "Get the path to the nachos home directory ",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nachos/nachos-home.git"
+  },
+  "keywords": [
+    "nachos",
+    "home",
+    "userhome"
+  ],
+  "author": "Nachos team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nachos/nachos-home/issues"
+  },
+  "homepage": "https://github.com/nachos/nachos-home",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.11.0",
+    "jshint-stylish": "^2.0.0"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "open": "0.0.5",
+    "user-home": "^1.1.1"
+  }
+}
