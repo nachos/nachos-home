@@ -1,8 +1,9 @@
 {
   "name": "nachos-home",
   "version": "1.0.0",
-  "description": "Get the path to the nachos home directory ",
+  "description": "Get the path to the nachos home directory",
   "main": "lib\\index.js",
+  "bin": "bin\\nachos-home",
   "scripts": {
     "test": "gulp test"
   },
