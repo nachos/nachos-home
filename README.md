@@ -1,4 +1,6 @@
 # nachos-home
+
+[![Join the chat at https://gitter.im/nachos/nachos-home](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nachos/nachos-home?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Get the path to the nachos home directory
 
 <table>
