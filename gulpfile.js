@@ -27,6 +27,7 @@ gulp.task('default', ['test']);
 gulp.task('test', function () {
   runSequence(
     'jshint:all',
+    'jscs:all',
     'mocha',
     function () {
       process.exit(0);
@@ -67,7 +68,7 @@ gulp.task('jscs:gulpfile', function () {
     .pipe(jscs());
 });
 
-gulp.task('mocha', ['env:test', 'env:local'], function (cb) {
+gulp.task('mocha', function (cb) {
   gulp.src('test/**/*.spec.js', {read: false})
     .pipe(mocha({reporter: 'spec'}))
     .on('error', function (err) {
