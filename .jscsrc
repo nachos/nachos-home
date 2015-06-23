@@ -36,7 +36,21 @@
   },
   "requirePaddingNewLinesAfterUseStrict": true,
   "requirePaddingNewLinesBeforeExport": true,
-  "requirePaddingNewlinesBeforeKeywords": true,
+  "requirePaddingNewlinesBeforeKeywords": [
+    "do",
+    "for",
+    "if",
+    "else",
+    "switch",
+    "case",
+    "try",
+    "catch",
+    "void",
+    "while",
+    "with",
+    "return",
+    "function"
+  ],
   "requirePaddingNewLinesBeforeLineComments": {
     "allExcept": "firstAfterCurly"
   },
