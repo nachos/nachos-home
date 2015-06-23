@@ -18,7 +18,7 @@ Get the path to the nachos home directory
         <a href="https://travis-ci.org/nachos/nachos-home"><img src="https://travis-ci.org/nachos/nachos-home.svg"></a>
       </td>
       <td align="center">
-        <a href="https://ci.appveyor.com/project/nachos/nachos-home"><img src="https://ci.appveyor.com/api/projects/status/null?svg=true"></a>
+        <a href="https://ci.appveyor.com/project/noamokman/nachos-home"><img src="https://ci.appveyor.com/api/projects/status/jgmv39855es9ovbl?svg=true"></a>
       </td>
       <td align="center">
         <a href="https://coveralls.io/r/nachos/nachos-home"><img src="https://coveralls.io/repos/nachos/nachos-home/badge.svg" alt="Coverage Status"></a>
