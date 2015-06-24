@@ -69,4 +69,10 @@ describe('nachos-home', function () {
       expect(path.dirname(home)).to.equal(path.join(osHomedir(), '.nachos', 'test', 'test2'));
     });
   });
+
+  describe('exports', function () {
+    it('should expose a function', function () {
+      expect(nachosHome).to.not.a.function;
+    });
+  });
 });
