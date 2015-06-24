@@ -72,7 +72,7 @@ describe('nachos-home', function () {
 
   describe('exports', function () {
     it('should expose a function', function () {
-      expect(nachosHome).to.not.a.function;
+      expect(nachosHome).to.be.a('function');
     });
   });
 });
