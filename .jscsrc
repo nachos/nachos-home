@@ -44,7 +44,6 @@
     "do",
     "for",
     "if",
-    "else",
     "switch",
     "case",
     "try",
@@ -52,8 +51,7 @@
     "void",
     "while",
     "with",
-    "return",
-    "function"
+    "return"
   ],
   "requirePaddingNewLinesBeforeLineComments": {
     "allExcept": "firstAfterCurly"
