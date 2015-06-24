@@ -32,7 +32,11 @@
   "requireOperatorBeforeLineBreak": true,
   "requirePaddingNewLineAfterVariableDeclaration": true,
   "requirePaddingNewLinesAfterBlocks": {
-    "allExcept": ["inCallExpressions", "inArrayExpressions", "inProperties"]
+    "allExcept": [
+      "inCallExpressions",
+      "inArrayExpressions",
+      "inProperties"
+    ]
   },
   "requirePaddingNewLinesAfterUseStrict": true,
   "requirePaddingNewLinesBeforeExport": true,
