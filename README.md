@@ -6,7 +6,7 @@ Get the path to the nachos home directory
   <thead>
     <tr>
       <th>Linux</th>
-      <th>OS X</th>
+      <th>OSX</th>
       <th>Windows</th>
       <th>Coverage</th>
       <th>Dependencies</th>
