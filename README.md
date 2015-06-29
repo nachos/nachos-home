@@ -19,7 +19,7 @@ Get the path to the nachos home directory
         <a href="https://travis-ci.org/nachos/nachos-home"><img src="https://img.shields.io/travis/nachos/nachos-home.svg?style=flat-square"></a>
       </td>
       <td align="center">
-        <a href="https://ci.appveyor.com/project/noamokman/nachos-home"><img src="https://img.shields.io/appveyor/ci/noamokman/nachos-home.svg?style=flat-square"></a>
+        <a href="https://ci.appveyor.com/project/noamokman/nachos-home"><img src="https://img.shields.io/appveyor/ci/nachos/nachos-home.svg?style=flat-square"></a>
       </td>
       <td align="center">
 <a href='https://coveralls.io/r/nachos/nachos-home'><img src='https://img.shields.io/coveralls/nachos/nachos-home.svg?style=flat-square' alt='Coverage Status' /></a>
