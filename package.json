@@ -2,8 +2,8 @@
   "name": "nachos-home",
   "version": "1.0.0",
   "description": "Get the path to the nachos home directory",
-  "main": "lib\\index.js",
-  "bin": "bin\\nachos-home",
+  "main": "lib/index.js",
+  "bin": "bin/nachos-home",
   "scripts": {
     "lint": "gulp lint",
     "test": "gulp test",
